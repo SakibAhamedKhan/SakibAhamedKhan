@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img width='26px' style='margin-right:10px' src='https://cdn-icons-png.flaticon.com/512/20/20673.png'>](https://www.facebook.com/sakibahamed.khan.188/)
+[<img width='26px' style='margin-right: 10px' src='https://cdn-icons-png.flaticon.com/512/20/20673.png'>](https://www.facebook.com/sakibahamed.khan.188/)
 [<img width='26px' src='https://cdn-icons-png.flaticon.com/512/174/174857.png'>](https://www.linkedin.com/in/sakibahamedkhan/)
 
 
@@ -34,3 +34,10 @@
 <br />
 
 ---
+### :zap: GitHub Stats
+<br/>
+
+[![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakibAhamedKhan)](https://github.com/SakibAhamedKhan)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakibAhamedKhan&langs_count=8)](https://github.com/SakibAhamedKhan)
