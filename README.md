@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2022 Goals: Learn more about React.js,React Native, Node.js.
+- 🥅 2023 Goals: Learn more about More Problem Solve in Codeforces,React Native, Node.js.
 - ⚡ Fun fact: I love to write code and solve realistic problem
 <!-- - 😻 Check out the Projects I created: [Portfilo](https://) -->
 
