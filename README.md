@@ -1,11 +1,11 @@
 # Hi there, I'm Sakib Ahamed Khan 👋 
 
-## I'm a Learner, Developer and Happier!!
+## I'm a Learner, Developer, and Happier!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2023 Goals: Learn more about More Problem Solve in Codeforces,React Native, Node.js.
-- ⚡ Fun fact: I love to write code and solve realistic problem
+- 🥅 2024 Goals: Problem Solve in Codeforces.
+- ⚡ Fun fact: I love to write code and solve a realistic problem
 <!-- - 😻 Check out the Projects I created: [Portfilo](https://) -->
 
 ### Connect with me:
