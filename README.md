@@ -2,9 +2,9 @@
 
 ## I'm a Learner, Developer, and Happier!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2024 Goals: Problem Solve in Codeforces.
+- 🥅 2025 Goals: Solve 3 problems of my life.
 - ⚡ Fun fact: I love to write code and solve a realistic problem
 <!-- - 😻 Check out the Projects I created: [Portfilo](https://) -->
 
