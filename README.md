@@ -1,10 +1,6 @@
 # Hi there, I'm Sakib Ahamed Khan 👋 
 
-## I'm a Learner, Developer, and Happier!!
-
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other programmers
-- 🥅 2025 Goals: Solve 3 problems of my life.
+- 🥅 2026 Goals: Achieve out of range things.
 - ⚡ Fun fact: I love to write code and solve a realistic problem
 <!-- - 😻 Check out the Projects I created: [Portfilo](https://) -->
 
